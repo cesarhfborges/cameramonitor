@@ -1,0 +1,7 @@
+{
+  "name": "webcameramonitor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
