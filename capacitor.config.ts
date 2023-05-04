@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'webcameramonitor',
+  appId: 'br.com.chfb.cameramonitor',
+  appName: 'Camera Monitor',
   webDir: 'www',
   server: {
     androidScheme: 'https'
